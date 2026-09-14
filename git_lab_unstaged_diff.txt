@@ -1,0 +1,7 @@
+diff --git a/src/app.js b/src/app.js
+index 9f897e9..e278339 100644
+--- a/src/app.js
++++ b/src/app.js
+@@ -1 +1,2 @@
+ console.log('Core initialized');
++console.log('Authentication module added');

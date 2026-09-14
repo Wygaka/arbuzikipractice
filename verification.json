@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-09-14",
+  "source_pdf": "/Users/yarz/Downloads/Практикум.pdf",
+  "part_1_repository": "clean_order_service",
+  "part_2_repository": "git-master-lab",
+  "clean_order_service_run": "=== Результат выполнения Use Case === ID заказа: ORD-FRIEND-001 Количество позиций: 2 Сумма без скидки: 9100.0 руб. Итого к оплате: 8190.0 руб. Статус: CREATED ",
+  "clean_order_service_status": "",
+  "git_master_lab_status": "",
+  "release_tag": "v1.0.0",
+  "bisect_checked": true
+}

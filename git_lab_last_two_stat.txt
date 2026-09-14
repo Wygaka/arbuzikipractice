@@ -1,0 +1,17 @@
+commit 5fa15e0f0ec92d215fa771a271d7cfc0826e80c3
+Author: Student Developer <student@college.local>
+Date:   Mon Sep 14 11:35:33 2026 +0300
+
+    chore: remove placeholder readme
+
+ temp_readme.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1aa11cd5905c45fa44f56c58210587b1826e72ca
+Author: Student Developer <student@college.local>
+Date:   Mon Sep 14 11:35:33 2026 +0300
+
+    docs: add placeholder readme
+
+ temp_readme.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

@@ -1,0 +1,10 @@
+*   3c8b468 merge: integrate feature/use-cases into main
+|\  
+| * 3018957 feat(infra): add InMemoryOrderRepository and main composition root
+| * 6bfcda1 feat(use_cases): add IOrderRepository interface and CreateOrderUseCase
+|/  
+*   27a5f6e merge: integrate feature/domain-entities into main
+|\  
+| * 2ead206 feat(domain): implement Order and OrderItem entities with discount rule
+|/  
+* 40ec8d0 chore: initialize project structure and add .gitignore

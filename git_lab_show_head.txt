@@ -1,0 +1,9 @@
+commit 5fa15e0f0ec92d215fa771a271d7cfc0826e80c3
+Author: Student Developer <student@college.local>
+Date:   Mon Sep 14 11:35:33 2026 +0300
+
+    chore: remove placeholder readme
+
+diff --git a/temp_readme.txt b/temp_readme.txt
+deleted file mode 100644
+index e69de29..0000000

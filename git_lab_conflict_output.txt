@@ -1,0 +1,3 @@
+Auto-merging service.cfg
+CONFLICT (add/add): Merge conflict in service.cfg
+Automatic merge failed; fix conflicts and then commit the result.

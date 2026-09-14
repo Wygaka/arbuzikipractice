@@ -1,0 +1,5 @@
+* 5fa15e0 (HEAD -> main) chore: remove placeholder readme
+* 1aa11cd docs: add placeholder readme
+* 6e558b1 refactor(core): rename app.js to main.js
+* a1bdd39 feat(auth): append auth log marker
+* 395e803 chore: initial project configuration and entrypoint
